@@ -2,6 +2,7 @@
 
 # Coursera
 1) Introduction to Programming with MATLAB
+2) Python Basics
 
 # NVIDIA Deep Learning Institute
 1) Fundamentals of Deep Learning
