@@ -3,6 +3,7 @@
 # Coursera
 1) Introduction to Programming with MATLAB
 2) Python Basics
+3) AWS Cloud Technical Essentials
 
 # NVIDIA Deep Learning Institute
 1) Fundamentals of Deep Learning
