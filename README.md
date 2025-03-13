@@ -11,3 +11,6 @@
 3) Building Transformer-Based Natural Language Processing Applications
 4) Fundamentals of Accelerated Computing with CUDA C/C++
 5) Fundamentals of Accelerated Computing with CUDA Python
+
+# Finlatics
+1)Business Analyst
