@@ -13,4 +13,4 @@
 5) Fundamentals of Accelerated Computing with CUDA Python
 
 # Finlatics
-1)Business Analyst
+Business Analyst
