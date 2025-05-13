@@ -15,7 +15,7 @@
 # Finlatics
 Business Analyst
 
-#Entuple Technologies
+# Entuple Technologies
 1)Physical design fundamnetals
 2)Verification Techniques
 3)EDA Tools
