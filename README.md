@@ -19,3 +19,7 @@ Business Analyst
 1) Physical design fundamnetals
 2) Verification Techniques
 3) EDA Tools
+
+# ADD-Advanced Digital Design
+1) SystemVerilog Programming
+2) Verification Methodologies
